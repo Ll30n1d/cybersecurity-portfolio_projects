@@ -1,0 +1,8 @@
+1. Вывод "DORA" означает последовательность из 4 этапов работы протокола DHCP:
+   - D (Discover) -> DHCP Discover
+   - O (Offer) -> DHCP Offer
+   - R (Request) -> DHCP Request
+   - A (ACK) -> DHCP Acknowledgment
+   Указанный далее IP-адрес — это полученный клиентом сетевой адрес
+
+2. Первый DHCP-пакет (DHCP Discover) отправляется на широковещательный (broadcast) IP-адрес 255.255.255.255
